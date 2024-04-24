@@ -21,5 +21,14 @@
     <ClCompile Include="prac_1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="example_2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="example_3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="prac_2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
