@@ -17,9 +17,9 @@ int num_mul(int num1, int num2)
 	return num1 * num2;
 }
 
-int num_div(float num1, float num2)
+float num_div(int num1, int num2)
 {
-	return num1 / num2;
+	return float(num1) / float(num2);
 }
 
 int main()
